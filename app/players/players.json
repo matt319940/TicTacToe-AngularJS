@@ -1,0 +1,10 @@
+[
+    {
+        "player": "One",
+        "id": "X"
+    },
+    {
+        "player": "Two",
+        "id": "O"
+    }
+]
